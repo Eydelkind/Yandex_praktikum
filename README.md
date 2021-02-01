@@ -1,1 +1,1 @@
-# Yandex_praktikum
+В этом репозитории хранятся проекты, выполнявшиеся во время учебы в Яндекс.Практикуме по специальности "Аналитик данных". Проекты выполнялись в Jupyter Notebook и в Tableau Public. Делая эти проекты, я пользовался библиотеками: pandas, numpy, matplotlib, seaborn, scipy, math, plotly.
